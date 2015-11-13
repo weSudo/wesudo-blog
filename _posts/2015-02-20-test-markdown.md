@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: First Test Post
+subtitle: this be a cool subtitle yo!
 ---
 
-You can write regular [markdown](http://en.wikipedia.org/wiki/Markdown) here and Jekyll will automatically convert it to a nice webpage.
+Awesome regular [markdown](http://en.wikipedia.org/wiki/Markdown) can be written here and Jekyll automatically converts it to a nice webpage. WoW!!
 
 **Here is some bold text**
 
@@ -13,8 +13,14 @@ You can write regular [markdown](http://en.wikipedia.org/wiki/Markdown) here and
 Here's a code chunk:
 
 ~~~
-x <- 5 + 10
-print(x)
+class jekyll
+{
+    public static void main(String args[])
+    {
+      System.out.println("Hello Jekyll!");
+    }
+}
+
 ~~~
 
 And here is some code with syntax highlighting
