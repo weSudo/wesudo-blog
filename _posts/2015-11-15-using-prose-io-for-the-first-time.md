@@ -1,8 +1,6 @@
 ---
 layout: post
 subtitle: null
-date: ""
-published: false
 title: Using prose.io for the first time.
 ---
 
