@@ -21,10 +21,10 @@ subtitle: Have something in mind ?? Feel free!
   <div>
   <button onclick="thanksFunc()"type="submit" class="btn btn-lg btn-primary">Submit</button>
   </div>
-  <script>
+  <div><script>
       function thanksFunc() 
       {
         alert("Thank You for reaching out!");
       }
-    </script>
+    </script></div>
 </form>
