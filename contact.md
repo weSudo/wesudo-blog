@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Get in touch
-subtitle: Like us?? Want to contribute ?? Feel free!
+title: Reach out
+subtitle: Have something in mind ?? Feel free!
 ---
 
-### hello
+##Hello there
