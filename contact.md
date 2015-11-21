@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Reach out
-subtitle: 
+subtitle: Have something in mind ?? Feel free to reach out.
 ---
-##Have something in mind ?? Feel free to reach out.
 
 <form action="https://formspree.io/wesudo.sh@gmail.com" method="POST" class="form" id="contact-form">
   
@@ -21,8 +20,6 @@ subtitle:
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required"                                                                                                            rows="3"></textarea>
     <input type="text" name="_gotcha" style="display:none">
     <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" />
-  
-  <div class="col-xs-6">
+    <p> </p>
     <button type="submit" class="btn btn-lg btn-primary">Submit</button>
-  </div>
 </form>
