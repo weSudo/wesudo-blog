@@ -21,8 +21,7 @@ subtitle: Have something in mind ?? Feel free!
     <input type="text" name="_gotcha" style="display:none">
     <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" />
   
-  <div>
-    <br>
+  <div class="row">
     <button type="submit" class="btn btn-lg btn-primary">Submit</button>
   </div>
 </form>
