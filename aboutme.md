@@ -11,7 +11,7 @@ subtitle: Think Linux? this is exactly where you wanna be.
 </div>
 
 ### Our Authors
-1. [Sohom Bhattacharjee](https://plus.google.com/+SohomBhattacharjee)
+1. [Sohom Bhattacharjee](https://plus.google.com/+SohomBhattacharjee) <p> this is my edit from the sohom154 fork </p>
 
-2. [Ayushman KB.](https://plus.google.com/+AyushmanKumarBanerjee65kb)
+2. [Ayushman KB.](https://plus.google.com/+AyushmanKumarBanerjee65kb) 
 	
