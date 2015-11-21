@@ -20,6 +20,6 @@ subtitle: Have something in mind ?? Feel free to reach out.
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required"                                                                                                            rows="3"></textarea>
     <input type="text" name="_gotcha" style="display:none">
     <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" />
-    <p> </p>
+    <p></p>
     <button type="submit" class="btn btn-lg btn-primary">Submit</button>
 </form>
