@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Reach out
+js: "/js/thanks.js"
 subtitle: Have something in mind ?? Feel free to reach out.
 ---
 
@@ -21,5 +22,5 @@ subtitle: Have something in mind ?? Feel free to reach out.
     <input type="text" name="_gotcha" style="display:none">
     <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" />
     <p></p>
-    <button type="submit" class="btn btn-lg btn-primary">Submit</button>
+    <button type="submit" class="btn btn-lg btn-primary" id="contact-btn">Submit</button>
 </form>
