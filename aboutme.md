@@ -12,8 +12,8 @@ subtitle: Think Linux? this is exactly where you wanna be.
 
 ### Our Authors
 1. ![sb-author](/img/sb-author.png)
-#[Sohom Bhattacharjee](https://plus.google.com/+SohomBhattacharjee)
+[Sohom Bhattacharjee](https://plus.google.com/+SohomBhattacharjee)
 
 2. ![kb-author](/img/kb-author.png)
-#[Ayushman KB.](https://plus.google.com/+AyushmanKumarBanerjee65kb)
+[Ayushman KB.](https://plus.google.com/+AyushmanKumarBanerjee65kb)
 	
