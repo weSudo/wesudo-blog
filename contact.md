@@ -10,17 +10,19 @@ subtitle: Have something in mind ?? Feel free!
     <div class="col-xs-6">
       <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email"><br>
     </div>
+    
     <div class="col-xs-6">
       <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name"><br>
     </div>
   </div>
   
   <input type="hidden" name="_subject" value="New submission from wesudo.github.io">
-  <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
+  <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required"                                                                                                            rows="3"></textarea>
     <input type="text" name="_gotcha" style="display:none">
     <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" />
   
   <div>
+    <br>
     <button type="submit" class="btn btn-lg btn-primary">Submit</button>
-    </div>
+  </div>
 </form>
