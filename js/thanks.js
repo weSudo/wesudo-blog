@@ -1,3 +1,3 @@
 $("#contact-btn").click(function() {
-  alert("See, JavaScript works! Did you not trust me?");
+  alert("Thank you for reaching out!");
 });
