@@ -37,7 +37,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Team weSudo
-  email: "wesudo.sh@gmail.com"
+  email: #"wesudo.sh@gmail.com"
   facebook: #yourname  # eg. daattali
   github: wesudo   # eg. daattali
   twitter: #yourname   # eg. daattali
@@ -48,7 +48,7 @@ author:
 footer-links-active:
   rss: false
   facebook: false
-  email: true
+  #email: true
   twitter: false
   github: true
   linkedin: false
