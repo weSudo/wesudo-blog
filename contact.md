@@ -18,7 +18,11 @@ subtitle: Have something in mind ?? Feel free!
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" />
+  <br>
   <div>
+  
+  
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
+  
   </div>
 </form>
