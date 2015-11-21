@@ -1,4 +1,7 @@
 ---
 layout: page
-title: Contact Us
+title: Reach out
+subtitle: Have something in mind ?? Feel free!
 ---
+
+##Hello there
