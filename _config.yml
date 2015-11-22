@@ -84,12 +84,13 @@ defaults:
       type: "posts"
     values:
       comments: true  # add comments to all blog posts
+      author: ""
   -
     scope:
       path: "" # all files
     values:
       layout: "default"
-      author: Rainer Hoyte
+      author: ""
 
 # Exclude these files from production site
 exclude:
