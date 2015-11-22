@@ -73,7 +73,7 @@ timezone: "Asia/Calcutta"
 markdown: kramdown
 highlighter: pygments
 gems: [jekyll-paginate]
-permalink: /:year-:month-:day-:title-:author
+permalink: /:year-:month-:day-:title
 paginate: 5
 
 # Default YAML values (more information on Jekyll's site)
