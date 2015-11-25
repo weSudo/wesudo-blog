@@ -29,7 +29,7 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   About Us: "aboutme"
-  Reach Out: "contact"
+  Reach Out: "reachout"
 
 # --- Footer options --- #
 
