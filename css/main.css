@@ -5,7 +5,7 @@
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #5D99C8;
+  color: #82B0D4;
   position: relative;
   background: #4D5C68;
 }
@@ -15,7 +15,7 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  color: #008AFF;
+  color: #39D0AD;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -26,7 +26,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #00D7E9;
 }
 blockquote {
   color: #808080;
@@ -182,7 +182,7 @@ img::-moz-selection {
 
 footer {
   padding: 30px 0;
-  background: #32C37C;
+  background: #39D0AD;
   border-top: 1px #03A556 solid;
   margin-top: 50px;
   font-size: 14px;
@@ -237,13 +237,13 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #FF6AE4;
+  color: #63FBC8;
 }
 
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #00F1A1;
+  color:  #F07A98;
 }
 
 .post-preview .post-title {
@@ -354,8 +354,8 @@ header.header-post .post-heading .post-subheading {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: #0085a1;
-  border: 1px solid #0085a1;
+  background: #D98D8D;
+  border: 1px solid #BC7171;
 }
 
 .pager {
