@@ -22,7 +22,7 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 a {
-  color: #008AFF;
+  color: #FF76B5;
 }
 a:hover,
 a:focus {
@@ -243,7 +243,7 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #0085a1;
+  color: #00F1A1;
 }
 
 .post-preview .post-title {

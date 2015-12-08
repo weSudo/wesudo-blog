@@ -1436,6 +1436,7 @@ hr {
     font-weight: 500;
     line-height: 1.1;
     color: #5D99C8
+    
 }
 
 .h1 .small, .h1 small, .h2 .small, .h2 small, .h3 .small, .h3 small, .h4 .small, .h4 small, .h5 .small, .h5 small, .h6 .small, .h6 small, h1 .small, h1 small, h2 .small, h2 small, h3 .small, h3 small, h4 .small, h4 small, h5 .small, h5 small, h6 .small, h6 small {
@@ -1545,7 +1546,7 @@ p {
 }
 
 .text-muted {
-    color: #5D99C8
+    color: #FFFFFF
 }
 
 .text-primary {
