@@ -5,10 +5,10 @@ subtitle: Think Tech? This is exactly where you wanna be.
 ---
 
 <div class="main-explain-area jumbotron">
-  <p><center>The blog is maintained by two Tech enthusiasts <br> 
+  <center><p>The blog is maintained by two Tech enthusiasts <br> 
   (especially anything Linux), which is clearly <br> 
-  understood by the name of this website.</center>
-  </p>
+  understood by the name of this website.
+  </p></center>
 </div>
 
 ### Our Authors
