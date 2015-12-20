@@ -5,8 +5,9 @@ subtitle: Think Tech? This is exactly where you wanna be.
 ---
 
 <div class="main-explain-area jumbotron">
-  <p>The blog is maintained by two Tech enthusiasts (especially anything Linux), which is clearly <br> 
-  	 understood by the name of this website.
+  <p>The blog is maintained by two Tech enthusiasts <br> 
+  (especially anything Linux), which is clearly <br> 
+  understood by the name of this website.
   </p>
 </div>
 
