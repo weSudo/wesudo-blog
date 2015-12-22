@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reach out
+title: Reach Out
 js: "/js/thanks.js"
 subtitle: Have something in mind ?? Feel free to reach out.
 ---
