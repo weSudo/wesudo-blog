@@ -1,8 +1,9 @@
 ---
 layout: post
 subtitle: This is what we thrive on.
-published: false
+published: true
 title: "Our Religion!"
+author: Rainer
 ---
 
 
