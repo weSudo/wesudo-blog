@@ -5,6 +5,7 @@ published: false
 title: "Our Religion!"
 ---
 
+
 ## What is Linux?
 
 Linux runs the World, period. If you are fairly familiar with the technology world I bet that at some point in time you would have heard the word Linux. Linux is gigantic! If you are seeing this word for the very first time you may have no idea about how big it is or what it does but believe me, you are already dependent on it. The android phones which you use is an active example of it! So without much palaver let us get right to it.
@@ -20,8 +21,9 @@ a supercalifragilisticexpialidocious version of Unix and thus he began his work 
 
 The most astonishing fact about Linux is that its FREE. After it became popular it just exploded reaching all parts of the technological tree and formed the roots of the current world of Internet. Suddenly everyone was using Linux. From scientists to learners, from colleges to research facilities, from schools to households. Everywhere.
 
-This is an image [1] of the number of OSes that are based on the Linus kernel.
-![]({{site.baseurl}}/https://ci4.googleusercontent.com/proxy/kAcLjX7bExD5hqsp0WZa8wYvCfCsFc7eKRRrUKu-j_B5geI3qqgyVffWCgIKUSZY4q4gYuLY87izn1xDbknQcyc3WKKj_-QbQL3L4JP8UILw-7-jnuDme2_akiZBzeEkRrNlpBiz1vhUmexbp40isfeny6vOb9A4igjTv0cRPuqE4GscNQeSQrNw8tq2P4ifGAqvzlxXXlwAh0OCtsjQKHPLISFrAEi1sXoMofEJkk3nVab6=s0-d-e1-ft#https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Linux_Distribution_Timeline_with_Android.svg/170px-Linux_Distribution_Timeline_with_Android.svg.png)
+This is an image of the number of OSes that are based on the Linus kernel.
+![linuxlist.png]({{site.baseurl}}/img/linuxlist.png)
+
 This picture is not readable even if you zoom it.
 
 And this image is almost comparable to the image of the big bang. [2]
