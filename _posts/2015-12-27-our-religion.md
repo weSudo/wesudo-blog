@@ -9,7 +9,9 @@ author: Rainer
 
 ## What is Linux?
 
-Linux runs the World, period. If you are fairly familiar with the technology world I bet that at some point in time you would have heard the word Linux. Linux is gigantic! If you are seeing this word for the very first time you may have no idea about how big it is or what it does but believe me, you are already dependent on it. The android phones which you use is an active example of it! So without much palaver let us get right to it.
+Linux runs the World, period.
+
+If you are fairly familiar with the technology world I bet that at some point in time you would have heard the word Linux. Linux is gigantic! If you are seeing this word for the very first time you may have no idea about how big it is or what it does but believe me, you are already dependent on it. The android phones which you use is an active example of it! So without much palaver let us get right to it.
 
 When I say that “Linux runs the entire World”, I mean it. This is the 21st century, the whole world practically runs on the Internet and Linux is what runs the Internet. So Linux is an operating system like Windows or Mac but to be more specific it is a kernel (the nucleus of an OS). This operating system runs servers, stock exchanges, satellites, your phones, your computers and almost everything that does not run Windows!
 
