@@ -16,5 +16,5 @@ subtitle: Think Tech? This is exactly where you wanna be.
 
 2. [Sohom Bhattacharjee](https://plus.google.com/+SohomBhattacharjee)
 
-## Find our project source on [Github](https://github.com/weSudo/wesudo.github.io) and on [Google+](https://plus.google.com/117385171573003386152).
+#### Find our project source on [Github](https://github.com/weSudo/wesudo.github.io) and on [Google+](https://plus.google.com/117385171573003386152).
 	
