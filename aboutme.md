@@ -8,6 +8,8 @@ subtitle: Think Tech? This is exactly where you wanna be.
   <center><p>The blog is maintained by two Tech enthusiasts <br> 
   (especially anything Linux), which is clearly <br> 
   understood by the name of this website.<br>
+    <h4> Find our project source on 
+  <a href="https://github.com/weSudo/wesudo.github.io">Github</a> and our <a href="https://plus.google.com/117385171573003386152">Google+ Page</a>.</h4>
   </p></center>
 </div>
 
