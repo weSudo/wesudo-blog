@@ -14,12 +14,12 @@ subtitle: Think Tech? This is exactly where you wanna be.
 </div>
 
 
-
+<div class="authors">
 
 ### Our Authors
 1. [Ayushman KB.](https://plus.google.com/+AyushmanKumarBanerjee65kb) 
 
 2. [Sohom Bhattacharjee](https://plus.google.com/+SohomBhattacharjee)
 
-
+</div>
 	
