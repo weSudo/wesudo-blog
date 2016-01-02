@@ -1,4 +1,11 @@
-##What are distros?
+---
+layout: post
+subtitle: null
+published: false
+title: Untitled
+---
+
+##What are Distros?
 
 In the last post we wrote about the Linux[kernel]. The most important thing to remember is that the kernel and the operating system are very different. When we speak of the kernel (just the kernel) we generally mean all the background processes that the OS performs; this may mean the memory allocation algorithms that keep running, the algorithms that write data to the hard disk.
  
@@ -9,7 +16,8 @@ Each distribution also has divisions called flavors. we will get to that in a bi
 Each distro is like a separate OS but the kernel is the same, well different occasionally. The different distros originated because -- 
 some time back during the development days someone had differences with their fellow developers and said "I'm gonna create a separate OS with all the features I like. You do it your way I'll do it my way". Maybe? Whatever!
 
-This picture shows the number of distros based on Linux. Yes; it can be measured COSMICALLY. 
+This picture shows the number of distros based on Linux. Yes; it can be measured COSMICALLY.
+![Linux Tree Flow Chart]({{site.baseurl}}/http://www.telemetro.dk/LIST-OF-LINUX-DISTRIBUTIONS.png)
 
 So this is like we have parent distros with stable releases and long-time supports and spin-off distros based on these major distributions. For example, the distro Ubuntu which I use is based on [Debian]( https://www.debian.org/). So mathematically Debian is a superset of Ubuntu. Similarly, [Kali Linux]( https://www.kali.org/) is a penetration testing OS or in vague and noob terms a hacking OS, which is also based on Debian. Thus Kali and Ubuntu are like brothers. Whatever runs on Ubuntu will run on Kali and MUST run on Debian too. Debian was created by [Ian Murdock]( https://en.wikipedia.org/wiki/Ian_Murdock) (DEB=name of wife, IAN=his name). Ian passed away recently at the mere age of 42.
 
