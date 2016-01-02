@@ -1,7 +1,7 @@
 ---
 layout: post
-subtitle: null
-published: false
+subtitle: We have more flavors than Mac and Windows combined.
+published: true
 title: This is how colossal it is.
 ---
 
