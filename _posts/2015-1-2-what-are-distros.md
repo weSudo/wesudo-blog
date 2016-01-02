@@ -1,8 +1,9 @@
 ---
 layout: post
 subtitle: We have more flavors than Mac and Windows combined.
-published: false
+published: true
 title: "What are distros?"
+author: Rainer
 ---
 
 ##What are Distros?
