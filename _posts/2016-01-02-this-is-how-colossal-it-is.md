@@ -21,6 +21,8 @@ some time back during the development days someone had differences with their fe
 This picture shows the number of distros based on Linux. Yes; it can be measured COSMICALLY.
 ![distro-list.png]({{site.baseurl}}/img/distro-list.png)
 
+Click [here](http://www.telemetro.dk/LIST-OF-LINUX-DISTRIBUTIONS.png) for a better resolution.
+
 So this is like we have parent distros with stable releases and long-time supports and spin-off distros based on these major distributions. For example, the distro Ubuntu which I use is based on [Debian]( https://www.debian.org/). So mathematically Debian is a superset of Ubuntu. Similarly, [Kali Linux]( https://www.kali.org/) is a penetration testing OS or in vague and noob terms a hacking OS, which is also based on Debian. Thus Kali and Ubuntu are like brothers. Whatever runs on Ubuntu will run on Kali and MUST run on Debian too. Debian was created by [Ian Murdock]( https://en.wikipedia.org/wiki/Ian_Murdock) (DEB=name of wife, IAN=his name). Ian passed away recently at the mere age of 42.
 
 So what’s the difference between different distros?
