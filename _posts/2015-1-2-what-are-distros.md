@@ -2,7 +2,7 @@
 layout: post
 subtitle: We have more flavors than Mac and Windows combined.
 published: false
-title: Untitled
+title: "What are distros?"
 ---
 
 ##What are Distros?
