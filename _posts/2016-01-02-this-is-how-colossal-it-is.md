@@ -3,6 +3,7 @@ layout: post
 subtitle: We have more flavors than Mac and Windows combined.
 published: true
 title: This is how colossal it is.
+author: Rainer
 ---
 
 ##What are Distros?
