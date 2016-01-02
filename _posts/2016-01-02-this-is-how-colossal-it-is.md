@@ -34,6 +34,3 @@ Another important deciding factor is the targeted user base. Ubuntu is targeted 
 So it eventually depends on what you use the OS for, not on what that particular OS has to offer. Go to [this link]( distrowatch.com/) to browse the latest to earliest Linux distros. While we come up with our new post on the Top Ten Distros, as reviewed by us.
 
 Comment. Share. And don’t forget to mention what would you like to hear from us next. Either drop in your suggestion in the comments below or you can go to the Contact Us page and fill out the simple form.
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
