@@ -5,13 +5,6 @@ published: false
 title: This is how colossal it is.
 ---
 
----
-layout: post
-subtitle: We have more flavors than Mac and Windows combined.
-published: true
-title: "This is how Colossal it is"!
-author: Rainer
----
 ##What are Distros?
 
 In the last post we wrote about the Linux[kernel]. The most important thing to remember is that the kernel and the operating system are very different. When we speak of the kernel (just the kernel) we generally mean all the background processes that the OS performs; this may mean the memory allocation algorithms that keep running, the algorithms that write data to the hard disk.
