@@ -2,7 +2,7 @@
 layout: post
 subtitle: We have more flavors than Mac and Windows combined.
 published: true
-title: "What are distros?"
+title: "This is how Colossal it is"!
 author: Rainer
 ---
 
