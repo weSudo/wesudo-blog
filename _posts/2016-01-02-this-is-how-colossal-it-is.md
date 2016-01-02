@@ -31,6 +31,6 @@ The most important fact is that these are Open-Source projects. Which means that
 
 Another important deciding factor is the targeted user base. Ubuntu is targeted to the common everyday user (someone who never used Linux before), while Kali is specifically for Hackers/Pen-Testers while RHEL is designed for high end Servers. [Fedora]( https://getfedora.org/) is targeted towards more advanced everyday users.  This however is not obligating anyone who wants to use Ubuntu for ethical hacking, they could just download the required software on Ubuntu and use it. Similarly, many "advanced" users also use OS like Kali Linux even for simple everyday tasks like checking mails, editing pictures, listening to music and web browsing.
 
-So it eventually depends on what you use the OS for, not on what that particular OS has to offer. Go to [this link]( distrowatch.com/) to browse the latest to earliest Linux distros. While we come up with our new post on the Top Ten Distros, as reviewed by us.
+So it eventually depends on what you use the OS for, not on what that particular OS has to offer. Go to [this link]( distrowatch.com/) to browse the latest to earliest Linux distros. While we come up with our new post on the Top Ten Distros, in our opinion.
 
 Comment. Share. And don’t forget to mention what would you like to hear from us next. Either drop in your suggestion in the comments below or you can go to the Contact Us page and fill out the simple form.
