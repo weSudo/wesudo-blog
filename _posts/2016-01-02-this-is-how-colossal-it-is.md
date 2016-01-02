@@ -1,6 +1,6 @@
 ---
 layout: post
-subtitle: We have more flavors than Mac and Windows combined.
+subtitle: We have more flavors than Windows and Mac combined.
 published: true
 title: This is how colossal it is.
 author: Rainer
