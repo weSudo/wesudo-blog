@@ -61,7 +61,7 @@ hr.small {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  text-decoration : underline;
+  text-decoration: underline;
   background: #3094E3;
 }
 ::selection {
