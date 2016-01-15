@@ -19,7 +19,7 @@ subtitle: Think Tech? This is exactly where you wanna be.
 ### Our Authors
 1. [Ayushman KB.](https://plus.google.com/+AyushmanKumarBanerjee65kb) 
 
-2. [Sohom Bhattacharjee](https://plus.google.com/+SohomBhattacharjee)
+2. [Sohom Bhattacharjee](https://sohom154.github.io/)
 
 
 	
