@@ -11,7 +11,7 @@ The Linux Kernel
 
 Over the past couple of posts we have been talking a lot about the Linux Kernel and how it is this huge global phenomenon but we have never talked about the Kernel itself. This post is going to fix all that.
 
-##Let us first understand what is a Kernel!
+## Let us first understand what is a Kernel!
 
 A kernel is the core of an operating system. An operating system is a software helps the user interact with the computer. Without an operating system the user would have to interact directly with the computer hardware. Back in the early days to change a program the entire computer had to be rewired(ENIAC) and today we just tap/click on the desired program to launch it. All this is enabled by the increased complexity of the computer system and the operating systems that help us interact with the hardware.
 
@@ -19,7 +19,7 @@ One might ask what is the difference between a Kernel and an OS. The kernel is p
 
 This is a map of the Linux Kenel By Conan at English Wikipedia.![kernel_map.png]({{site.baseurl}}/img/kernel_map.png)
 
-##Now why is the Linux Kernel is so special?
+## Now why is the Linux Kernel is so special?
 
 Firstly the Linux Kernel is Open source and it is maintained collaboratively by an exceptionally large group of dedicated and talented professionals. But, this is not where the pros for the Linux Kernel ends. There is a technical side to this discussion too! 
 
